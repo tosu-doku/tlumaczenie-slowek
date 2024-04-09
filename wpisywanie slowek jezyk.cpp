@@ -15,7 +15,7 @@ int main(){
     //cin.getline(input,sizeof(input));
 
     while(a!=100){
-        cout << "podaj slowko jez : ";
+        cout << "podaj slowko jez obcy: ";
         cin.getline(n,sizeof(n));
         cout << "podaj tlumaczenie na polski: ";
         cin.getline(p,sizeof(p));
