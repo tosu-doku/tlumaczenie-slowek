@@ -1,1 +1,1 @@
-Prosty program do łatwiejszej nauki słówek w róznych językach
+Prosty program do łatwiejszej nauki słówek w różnych językach
